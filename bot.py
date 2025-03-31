@@ -17,7 +17,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
             "inline_keyboard": [[
                 {
                     "text": "Открыть мини-приложение",
-                    "web_app": {"url": "https://your-github-username.github.io/Fitness_miniapp/"}
+                    "web_app": {"url": "https://Artem123213432.github.io/Fitness_miniapp/"}
                 }
             ]]
         }
